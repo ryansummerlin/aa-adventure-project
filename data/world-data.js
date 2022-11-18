@@ -42,6 +42,11 @@ module.exports = {
             description: "A tasty looking sandwich",
             room: 2,
             isFood: true
+        },
+        {
+            name: "sword",
+            description: "A long sword, with a gold hilt",
+            room: 3,
         }
     ]
 }

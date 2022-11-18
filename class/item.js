@@ -1,6 +1,9 @@
 class Item {
-
-    // Fill this in
+  constructor(name, description, isFood = false) {
+    this.name = name;
+    this.description = description;
+    this.isFood = isFood;
+  }
 
 }
 
